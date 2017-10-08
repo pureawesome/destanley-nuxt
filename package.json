@@ -13,6 +13,9 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@nuxtjs/google-analytics": "^1.0.0",
+    "@nuxtjs/sitemap": "0.0.3",
+    "axios": "^0.16.2",
     "nuxt": "^1.0.0-rc11"
   },
   "devDependencies": {

@@ -1,0 +1,137 @@
+{
+  "print": [
+    {
+      "title": "The Man Who Would Be King",
+      "publication": "Art + Design",
+      "image": "ck.jpg",
+      "link": "/pdfs/calvin_klein.pdf"
+    },
+    {
+      "title": "The Forgotten Coast",
+      "publication": "Art + Design",
+      "image": "coast.jpg",
+      "link": "/pdfs/coast.pdf"
+    },
+    {
+      "title": "Social Sculptor",
+      "publication": "Art + Design",
+      "image": "sculptor.jpg",
+      "link": "/pdfs/sculptor.pdf"
+    },
+    {
+      "title": "Travel Vision",
+      "publication": "The Window (Visvim)",
+      "image": "vision.jpg",
+      "link": "/pdfs/vision.pdf"
+    },
+    {
+      "title": "Ojai",
+      "publication": "Cereal Magazine",
+      "image": "cereal.jpg",
+      "link": "/pdfs/cereal.pdf"
+    },
+    {
+      "title": "Simon Delestre",
+      "publication": "Man of the World",
+      "image": "simon.jpg",
+      "link": "/pdfs/delestre.pdf"
+    },
+    {
+      "title": "Retrobottega",
+      "publication": "The Window",
+      "image": "retro.jpg",
+      "link": "/pdfs/retrobottega.pdf"
+    },
+    {
+      "title": "Fredrik Berselius",
+      "publication": "The Window",
+      "image": "fredrik.jpg",
+      "link": "/pdfs/fredrik.pdf"
+    },
+    {
+      "title": "Gorillaz in Their Midst",
+      "publication": "Vanity Fair",
+      "image": "gorillaz.jpg",
+      "link": "http://www.vanityfair.com/culture/2013/08/gorillas-opera-monkey-journey-to-west"
+    },
+    {
+      "title": "Killer Solo",
+      "publication": "Nylon",
+      "image": "killer.jpg",
+      "link": "/pdfs/killer_solo.pdf"
+    },
+    {
+      "title": "Jesus is Trending",
+      "publication": "Nylon Guys",
+      "image": "jesus.jpg",
+      "link": "/pdfs/jesus_is_trending.pdf"
+    },
+    {
+      "title": "A Long Strange Trip",
+      "publication": "Nylon Guys",
+      "image": "strange.jpg",
+      "link": "/pdfs/a_long_strange_trip.pdf"
+    },
+    {
+      "title": "Journey to the Center of America",
+      "publication": "Nylon",
+      "image": "kansas.jpg",
+      "link": "/pdfs/kansas.pdf"
+    }
+  ],
+  "online": [
+    {
+      "title": "Santa Barbara",
+      "publication": "cereal",
+      "image": "sb.jpg",
+      "link": "http://readcereal.com/santa-barbara/"
+    },
+    {
+      "title": "Greatest Living Artists",
+      "publication": "Vanity Fair",
+      "image": "paint.jpg",
+      "link": "http://www.vanityfair.com/culture/2013/11/greatest-living-artists-poll-results"
+    },
+    {
+      "title": "Norma at the Met",
+      "publication": "Vanity Fair",
+      "image": "norma.jpg",
+      "link": "http://www.vanityfair.com/culture/2013/10/norma-met-sondra-radvanovsky"
+    },
+    {
+      "title": "Grace Slick",
+      "publication": "Vanity Fair",
+      "image": "grace.jpg",
+      "link": "http://www.vanityfair.com/news/2012/06/jefferson-airplane-grace-slick-drugs-painting"
+    },
+    {
+      "title": "Marie Colvin's Passport",
+      "publication": "Vanity Fair",
+      "image": "colvin.jpg",
+      "link": "http://www.vanityfair.com/news/photos/2012/08/marie-colvin-passport-photos"
+    },
+    {
+      "title": "Jo Nesbo",
+      "publication": "Goodreads",
+      "image": "nesbo.jpg",
+      "link": "http://www.goodreads.com/interviews/show/929.Jo_Nesb_"
+    }
+  ],
+  "video": [
+    {
+      "title": "Nylon News",
+      "publication": "Nylon",
+      "link": "//video.nylon.com/embed/351?auto=false"
+    },
+    {
+      "title": "Babymetal",
+      "publication": "Nylon",
+      "link": "//video.nylon.com/embed/347?auto=false"
+    },
+    {
+      "title": "Twin Shadow",
+      "publication": "Nylon",
+      "link": "//video.nylon.com/embed/265?auto=false"
+    }
+  ]
+}
