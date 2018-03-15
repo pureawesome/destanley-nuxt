@@ -5,7 +5,7 @@ const store = () => {
   return new Vuex.Store({
     state: {
       types: [],
-      online: [],
+      cv: [],
       print: [],
       video: []
     },
@@ -29,7 +29,7 @@ const store = () => {
         state.types = Object.keys(data).map((key) => ({name: key, uri: '/' + key}))
         state.online = data.online.map((item) => Object.assign({}, item, {uri: item.title.replace(/\s+/g, '-').toLowerCase()}))
         state.print = data.print.map((item) => Object.assign({}, item, {uri: item.title.replace(/\s+/g, '-').toLowerCase()}))
-        state.video = data.video.map((item) => Object.assign({}, item, {uri: item.title.replace(/\s+/g, '-').toLowerCase()}))
+        state.cv = data.cv.map((item) => Object.assign({}, item, {uri: item.title.replace(/\s+/g, '-').toLowerCase()}))
       }
     },
     getters: {

@@ -30,8 +30,9 @@ nav {
 }
 
 span {
-  display: inline;
+  display: block;
   padding-right: 15px;
+  padding-bottom: 10px;
 }
 
 a {

@@ -94,6 +94,11 @@
     }
   ],
   "cv": [
-
+    {
+      "title": "",
+      "publication": "Click to Download",
+      "image": "cv.jpg",
+      "link": "/pdfs/MMSres18P.pdf"
+    }
   ]
 }

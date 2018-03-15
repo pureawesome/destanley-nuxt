@@ -28,7 +28,7 @@ export default {
 <style scoped>
 .title {
   font-weight: normal;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 .item-wrapper {

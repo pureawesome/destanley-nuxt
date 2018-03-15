@@ -1,20 +1,7 @@
 <template>
   <section class="container" v-bind:class="pageTitle">
     <h1 class="title">Mickey Stanley<span>| {{pageTitle}} |</span></h1>
-      <div v-if="isOnline">
-        <transition-group
-          tag="div"
-          name="list"
-          class="content-wrapper"
-          :css="false"
-          @enter="enter"
-          @before-enter="beforeEnter"
-          @leave="leave"
-        >
-          <VideoItem v-for="(item, index) in items" :item="item" :key="item.uri" :data-index="index" v-if="loaded"></VideoItem>
-        </transition-group>
-      </div>
-      <div v-else>
+      <div>
         <transition-group
           tag="div"
           name="list"
@@ -33,21 +20,19 @@
 
 <script>
 import WrittenItem from '~/components/WrittenItem.vue'
-import VideoItem from '~/components/VideoItem.vue'
 export default {
   data: () => ({
     loaded: false
   }),
   components: {
-    WrittenItem,
-    VideoItem
+    WrittenItem
   },
   computed: {
     items () {
       return this.$store.state[this.$route.params.type]
     },
-    isOnline () {
-      return this.$route.params.type === 'video'
+    isCV () {
+      return this.$route.params.type === 'cv'
     },
     pageTitle () {
       return this.$route.params.type
