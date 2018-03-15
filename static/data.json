@@ -7,22 +7,10 @@
       "link": "/pdfs/calvin_klein.pdf"
     },
     {
-      "title": "The Forgotten Coast",
-      "publication": "Art + Design",
-      "image": "coast.jpg",
-      "link": "/pdfs/coast.pdf"
-    },
-    {
-      "title": "Social Sculptor",
-      "publication": "Art + Design",
-      "image": "sculptor.jpg",
-      "link": "/pdfs/sculptor.pdf"
-    },
-    {
-      "title": "Travel Vision",
-      "publication": "The Window (Visvim)",
-      "image": "vision.jpg",
-      "link": "/pdfs/vision.pdf"
+      "title": "Journey to the Center of America",
+      "publication": "Nylon",
+      "image": "kansas.jpg",
+      "link": "/pdfs/kansas.pdf"
     },
     {
       "title": "Ojai",
@@ -31,28 +19,16 @@
       "link": "/pdfs/cereal.pdf"
     },
     {
-      "title": "Simon Delestre",
-      "publication": "Man of the World",
-      "image": "simon.jpg",
-      "link": "/pdfs/delestre.pdf"
-    },
-    {
-      "title": "Retrobottega",
-      "publication": "The Window",
-      "image": "retro.jpg",
-      "link": "/pdfs/retrobottega.pdf"
-    },
-    {
-      "title": "Fredrik Berselius",
-      "publication": "The Window",
-      "image": "fredrik.jpg",
-      "link": "/pdfs/fredrik.pdf"
-    },
-    {
       "title": "Gorillaz in Their Midst",
       "publication": "Vanity Fair",
       "image": "gorillaz.jpg",
       "link": "http://www.vanityfair.com/culture/2013/08/gorillas-opera-monkey-journey-to-west"
+    },
+    {
+      "title": "The Forgotten Coast",
+      "publication": "Art + Design",
+      "image": "coast.jpg",
+      "link": "/pdfs/coast.pdf"
     },
     {
       "title": "Killer Solo",
@@ -61,22 +37,22 @@
       "link": "/pdfs/killer_solo.pdf"
     },
     {
-      "title": "Jesus is Trending",
-      "publication": "Nylon Guys",
-      "image": "jesus.jpg",
-      "link": "/pdfs/jesus_is_trending.pdf"
+      "title": "Kinetic Energy",
+      "publication": "The Window",
+      "image": "kinetic.jpg",
+      "link": "/pdfs/kinetic.pdf"
     },
     {
-      "title": "A Long Strange Trip",
-      "publication": "Nylon Guys",
-      "image": "strange.jpg",
-      "link": "/pdfs/a_long_strange_trip.pdf"
+      "title": "Social Sculptor",
+      "publication": "Art + Design",
+      "image": "sculptor.jpg",
+      "link": "/pdfs/sculptor.pdf"
     },
     {
-      "title": "Journey to the Center of America",
-      "publication": "Nylon",
-      "image": "kansas.jpg",
-      "link": "/pdfs/kansas.pdf"
+      "title": "Simon Delestre",
+      "publication": "Man of the World",
+      "image": "simon.jpg",
+      "link": "/pdfs/delestre.pdf"
     }
   ],
   "online": [
@@ -117,21 +93,7 @@
       "link": "http://www.goodreads.com/interviews/show/929.Jo_Nesb_"
     }
   ],
-  "video": [
-    {
-      "title": "Nylon News",
-      "publication": "Nylon",
-      "link": "//video.nylon.com/embed/351?auto=false"
-    },
-    {
-      "title": "Babymetal",
-      "publication": "Nylon",
-      "link": "//video.nylon.com/embed/347?auto=false"
-    },
-    {
-      "title": "Twin Shadow",
-      "publication": "Nylon",
-      "link": "//video.nylon.com/embed/265?auto=false"
-    }
+  "cv": [
+
   ]
 }
